@@ -19,8 +19,8 @@ Open-source CBT WebApp
 | Phase | Activity | Description |
 |---|---|---|
 | 1 | [Planning](https://github.com/expo-cbt/_docs/product-requirements-document.md) | Define goals, scope, budget, and timeline. |
-| 2 | [Requirements Analysis](https://github.com/expo-cbt/_docs/software-requirements-specification) | Gather and document user needs. |
-| 3 | [Design](https://github.com/expo-cbt/_docs/) | Create the system architecture and UI/database designs. |
+| 2 | [Requirements Analysis](https://github.com/expo-cbt/_docs/software-requirements-specification.md) | Gather and document user needs. |
+| 3 | [Design](https://github.com/expo-cbt/_docs/entity-relationship-diagram.md) | Create the system architecture and UI/database designs. |
 | 4 | Development | Write the code. |
 | 5 | Testing | Find and fix bugs; verify requirements are met. |
 | 6 | Deployment | Release the software to users. |
