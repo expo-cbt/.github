@@ -25,23 +25,3 @@ Open-source CBT WebApp
 | 5 | Testing | Find and fix bugs; verify requirements are met. |
 | 6 | Deployment | Release the software to users. |
 | 7 | Maintenance | Fix issues, update features, and improve performance. |
-
-## Resources 
-
-- GitHub `branch` Workflow Convention 
-- GitHub `pull-request` Convention
-- GitHub Projects
-- GitHub Issues
-- Feature-based Directory Structure 
-- React Atomic Design
-- SOLID Principles
-- Deploy React to Vercel
-- Deploy FastAPI to Vercel
-- Introduction to JavaScript Programming 
-- Introduction to TypeScript Programming 
-- Introduction to Python Programming
-- Introduction to React
-- Introduction to Next.js
-- Introduction to FastAPI
-- Introduction to PostgreSQL
-- How to use Supabase
