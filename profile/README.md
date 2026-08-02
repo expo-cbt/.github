@@ -12,7 +12,7 @@ Open-source CBT WebApp
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## Become an Open Source Contributor
+## Open Source Contributor Guide
 
 - Follow `@2gbeh` on [YouTube](https://youtube.com/@2gbeh) and [TikTok](https://tiktok.com/@2gbeh) 
 - Follow [/expo-cbt](https://github.com/expo-cbt) organization and [/2gbeh](https://github.com/2gbeh) account on `GitHub`
