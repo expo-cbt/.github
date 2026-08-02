@@ -12,11 +12,10 @@ Open-source CBT WebApp
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## Become A Contributor
+## Become an Open Source Contributor
 
-- Follow [@2gbeh](https://youtube.com/@2gbeh) on `YouTube`
-- Follow [@2gbeh](https://tiktok.com/@2gbeh) on `TikTok`
-- Follow [/expo-cbt](https://github.com/expo-cbt) and [/2gbeh](https://github.com/2gbeh) on `GitHub`
+- Follow `@2gbeh` on [YouTube](https://youtube.com/@2gbeh) and [TikTok](https://tiktok.com/@2gbeh) 
+- Follow [/expo-cbt](https://github.com/expo-cbt) organization and [/2gbeh](https://github.com/2gbeh) account on `GitHub`
 - Star ⭐ the codebase repositories [/web](https://github.com/expo-cbt/web), [/api](https://github.com/expo-cbt/api), and [/notebook](https://github.com/expo-cbt/notebook)
 
 ## SDLC Documentation
