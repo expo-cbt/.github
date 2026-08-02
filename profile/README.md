@@ -2,7 +2,7 @@
 
 Open-source CBT WebApp 
 
-> Dept. of Computer Science & Engineering, Obafemi Awolowo University (OAU)
+> Department of Computer Science & Engineering, Obafemi Awolowo University (OAU)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg)
