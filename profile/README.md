@@ -10,7 +10,7 @@ Open-source CBT WebApp
 
 ## Become A Contributor
 
-- Follow [@2gbeh](https://tiktok.com/@2gbeh) and [@harrisonoshomoh](https://tiktok.com/harrisonoshomoh) on `TikTok`
+- Follow [@2gbeh](https://tiktok.com/@2gbeh) and [@harrisonoshomoh](https://tiktok.com/@harrisonoshomoh) on `TikTok`
 - Follow [/expo-cbt](https://github.com/expo-cbt), [/2gbeh](https://github.com/2gbeh), and [/harrisonoshomoh](https://github.com/harrisonoshomoh) on `GitHub`
 - Star ⭐ the codebase repositories [/web](https://github.com/expo-cbt/web) and [/api](https://github.com/expo-cbt/api)
 
