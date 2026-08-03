@@ -4,9 +4,9 @@ Open-source CBT WebApp
 
 > Department of Computer Science & Engineering, Obafemi Awolowo University (OAU)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-7.x-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg)
-![C#](https://img.shields.io/badge/CSharp-9.x-239120.svg)
+![C#](https://img.shields.io/badge/C%23-13.x-239120.svg)
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
@@ -29,8 +29,8 @@ Star ⭐ the codebase repositories below:
 | --- | :----------------------------------------------: | --------------------------- | -------------------------------------- |
 | 1   | [\_assets](https://github.com/expo-cbt/_assets)  | Shared Media Assets         | ---                                    |
 | 2   |   [\_docs](https://github.com/expo-cbt/_docs)    | Shared Documentation        | ---                                    |
-| 3   |      [web](https://github.com/expo-cbt/web)      | CBT Frontend                | `TypeScript` `React` `Zustand`         |
-| 4   |      [api](https://github.com/expo-cbt/api)      | CBT Backend                 | `C#` `.NET` `PostgreSQL`               |
+| 3   |      [api](https://github.com/expo-cbt/api)      | Backend API/Web Service     | `C#` `.NET` `PostgreSQL`               |
+| 4   |      [web](https://github.com/expo-cbt/web)      | Frontend WebApp             | `TypeScript` `React` `Zustand`         |
 | 5   |      [app](https://github.com/expo-cbt/app)      | Administrator App           | `TypeScript` `React Native` `Firebase` |
 | 6   | [notebook](https://github.com/expo-cbt/notebook) | Interactive Python Notebook | `Python`                               |
-| 7   | [pipeline](https://github.com/expo-cbt/pipeline) | ML Data Pipeline            | `Python` `Django`                      |
+| 7   | [pipeline](https://github.com/expo-cbt/pipeline) | Data Pipeline               | `Python` `Django`                      |
