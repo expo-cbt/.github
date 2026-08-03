@@ -1,10 +1,10 @@
 # ExpoCBT
 
-Open-source CBT WebApp 
+Open-source CBT WebApp
 
 > Department of Computer Science & Engineering, Obafemi Awolowo University (OAU)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-7.x-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg)
 ![C#](https://img.shields.io/badge/CSharp-9.x-239120.svg)
 
@@ -14,33 +14,22 @@ Open-source CBT WebApp
 
 ## Open Source Contributor Guide
 
-- Follow `@2gbeh` on [YouTube](https://youtube.com/@2gbeh) and [TikTok](https://tiktok.com/@2gbeh) 
-- Follow [/expo-cbt](https://github.com/expo-cbt) organization and [/2gbeh](https://github.com/2gbeh) account on `GitHub`
-- Star ⭐ the codebase repositories [/web](https://github.com/expo-cbt/web), [/api](https://github.com/expo-cbt/api), and [/notebook](https://github.com/expo-cbt/notebook)
+- Subscribe to [@2gbeh](https://youtube.com/@2gbeh) **YouTube Channel** for the weekly `#build-in-public` training
+- Follow [@2gbeh](https://tiktok.com/@2gbeh) on **TikTok** for the weekly mentorship/Q&A session
+- Follow [@2gbeh](https://x.com/@2gbeh) on **Twitter/X** for the weekly AI/ML Podcast [Northwind AI Podcast](https://podcast.northwindai.org)
+- Follow [/2gbeh](https://github.com/2gbeh) and [/expo-cbt](https://github.com/expo-cbt) on **GitHub**
+- Send me your GitHub Email on WhatsApp [2348169960927](https://wa.me/2348169960927?text=Hello%20ExpoCBT%20admin%2C%20I've%20completed%20the%20Open%20Source%20Contributor%20Guide%20%F0%9F%A4%93)
 
-## SDLC Documentation
+## Repositories
 
-#### Software Development Life Cycle (SDLC)
+Star ⭐ the codebase repositories below
 
-| Phase | Activity                                                                                          | Description                                            |
-| ----- | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1     | [Planning](https://github.com/expo-cbt/_docs/product-requirements-document.md)                    | Define goals, scope, budget, and timeline              |
-| 2     | [Requirements Analysis](https://github.com/expo-cbt/_docs/software-requirements-specification.md) | Gather and document user needs                         |
-| 3     | [Design](https://github.com/expo-cbt/_docs/entity-relationship-diagram.md)                        | Create the system architecture and UI/database designs |
-| 4     | Development                                                                                       | Write the code                                         |
-| 5     | Testing                                                                                           | Find and fix bugs; verify requirements are met         |
-| 6     | Deployment                                                                                        | Release the software to users                          |
-| 7     | Maintenance                                                                                       | Fix issues, update features, and improve performance   |
-
-## CRISP-DM Documentation
-
-#### Cross-Industry Standard Process for Data Mining (CRISP-DM)
-
-| Phase | Activity                                                                                    | Description                                                              |
-| ----- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| 1     | [Business Understanding](https://github.com/expo-cbt/_docs/situation-task-action-result.md) | Define objectives and requirements from a business perspective           |
-| 2     | Data Understanding                                                                          | Collect and explore initial data to identify quality issues/insights     |
-| 3     | Data Preparation                                                                            | Clean, transform, and structure data for modeling                        |
-| 4     | Modeling                                                                                    | Select and apply appropriate machine learning algorithm, tune parameters |
-| 5     | Evaluation                                                                                  | Test the model using unseen data to measure its accuracy                 |
-| 6     | Deployment                                                                                  | Release trained model into production for real-world predictions         |
+| #   | Repository                                       | Description                 | Frameworks                             |
+| --- | ------------------------------------------------ | --------------------------- | -------------------------------------- |
+| 1   | [\_assets](https://github.com/expo-cbt/_assets)  | Shared Media Assets         | ---                                    |
+| 2   | [\_docs](https://github.com/expo-cbt/_docs)      | Shared Documentation        | ---                                    |
+| 3   | [web](https://github.com/expo-cbt/web)           | CBT Frontend                | `TypeScript` `React` `Zustand`         |
+| 4   | [api](https://github.com/expo-cbt/api)           | CBT Backend                 | `C#` `.NET` `PostgreSQL`               |
+| 5   | [app](https://github.com/expo-cbt/app)           | Administrator App           | `TypeScript` `React Native` `Firebase` |
+| 6   | [notebook](https://github.com/expo-cbt/notebook) | Interactive Python Notebook | `Python`                               |
+| 7   | [pipeline](https://github.com/expo-cbt/pipeline) | ML Data Pipeline            | `Python` `Django`                      |
