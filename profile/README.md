@@ -22,14 +22,14 @@ Open-source CBT WebApp
 
 ## Repositories
 
-Star ⭐ the codebase repositories below
+Star ⭐ the codebase repositories below:
 
-| #   | Repository                                       | Description                 | Frameworks                             |
-| --- | ------------------------------------------------ | --------------------------- | -------------------------------------- |
+| #   |                    Repository                    | Description                 | Tech Stack                             |
+| --- | :----------------------------------------------: | --------------------------- | -------------------------------------- |
 | 1   | [\_assets](https://github.com/expo-cbt/_assets)  | Shared Media Assets         | ---                                    |
-| 2   | [\_docs](https://github.com/expo-cbt/_docs)      | Shared Documentation        | ---                                    |
-| 3   | [web](https://github.com/expo-cbt/web)           | CBT Frontend                | `TypeScript` `React` `Zustand`         |
-| 4   | [api](https://github.com/expo-cbt/api)           | CBT Backend                 | `C#` `.NET` `PostgreSQL`               |
-| 5   | [app](https://github.com/expo-cbt/app)           | Administrator App           | `TypeScript` `React Native` `Firebase` |
+| 2   |   [\_docs](https://github.com/expo-cbt/_docs)    | Shared Documentation        | ---                                    |
+| 3   |      [web](https://github.com/expo-cbt/web)      | CBT Frontend                | `TypeScript` `React` `Zustand`         |
+| 4   |      [api](https://github.com/expo-cbt/api)      | CBT Backend                 | `C#` `.NET` `PostgreSQL`               |
+| 5   |      [app](https://github.com/expo-cbt/app)      | Administrator App           | `TypeScript` `React Native` `Firebase` |
 | 6   | [notebook](https://github.com/expo-cbt/notebook) | Interactive Python Notebook | `Python`                               |
 | 7   | [pipeline](https://github.com/expo-cbt/pipeline) | ML Data Pipeline            | `Python` `Django`                      |
