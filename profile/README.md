@@ -32,5 +32,5 @@ Star ⭐ the codebase repositories below:
 | 3   |      [api](https://github.com/expo-cbt/api)      | Backend API/Web Service | `C#` `.NET` `PostgreSQL` `Supabase`           |
 | 4   |      [web](https://github.com/expo-cbt/web)      | Frontend WebApp         | `TypeScript` `React` `Next`                   |
 | 5   |      [app](https://github.com/expo-cbt/app)      | Administrator App       | `TypeScript` `React Native` `Expo` `Firebase` |
-| 6   |   [joblib](https://github.com/expo-cbt/joblib)   | Jupyter Notebook        | `Python`                                      |
+| 6   | [notebook](https://github.com/expo-cbt/notebook) | Jupyter Notebook        | `Python`                                      |
 | 7   | [pipeline](https://github.com/expo-cbt/pipeline) | Data Pipeline           | `Python` `Django`                             |
