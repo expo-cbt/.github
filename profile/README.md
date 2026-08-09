@@ -14,7 +14,7 @@ Open-source CBT WebApp
 - Follow [@2gbeh](https://tiktok.com/@2gbeh) on **TikTok** for the weekly mentorship/Q&A session
 - Follow [@2gbeh](https://x.com/@2gbeh) on **Twitter/X** for the weekly AI/ML Podcast [Northwind AI Podcast](https://podcast.northwindai.org)
 - Follow [/2gbeh](https://github.com/2gbeh) and [/expo-cbt](https://github.com/expo-cbt) on **GitHub**
-- Send me your GitHub Email on WhatsApp [2348169960927](https://wa.me/2348169960927?text=Hello%20ExpoCBT%20admin%2C%20I've%20completed%20the%20Open%20Source%20Contributor%20Guide%20%F0%9F%A4%93)
+- Send your GitHub Email to [2348169960927](https://wa.me/2348169960927?text=Hello%20ExpoCBT%20admin%2C%20I've%20completed%20the%20Open%20Source%20Contributor%20Guide%20%F0%9F%A4%93) on WhatsApp
 
 ## Projects
 
