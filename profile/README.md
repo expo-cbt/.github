@@ -28,7 +28,7 @@ Star ⭐ the codebase repositories below:
 | #   |                    Repository                    | Description             | Tech Stack                                    |
 | --- | :----------------------------------------------: | ----------------------- | --------------------------------------------- |
 | 1   |    [\_lib](https://github.com/expo-cbt/_lib)     | Shared Docs & Assets    | ---                                           |
-| 2   |      [api](https://github.com/expo-cbt/api)      | Backend API/Web Service | `C#` `.NET` `PostgreSQL` `Supabase`           |
+| 2   |      [api](https://github.com/expo-cbt/api)      | Backend Web Service API | `C#` `.NET` `PostgreSQL` `Supabase`           |
 | 3   |      [web](https://github.com/expo-cbt/web)      | Frontend WebApp         | `TypeScript` `React` `Next`                   |
 | 4   |      [app](https://github.com/expo-cbt/app)      | Administrator App       | `TypeScript` `React Native` `Expo` `Firebase` |
 | 5   | [pipeline](https://github.com/expo-cbt/pipeline) | Data Pipeline           | `Python` `Django`                             |
