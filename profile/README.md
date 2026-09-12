@@ -10,10 +10,10 @@ Open-source CBT WebApp
 
 ## Contributor Guide
 
-- Subscribe to [@2gbeh](https://youtube.com/@2gbeh) **YouTube Channel** for the weekly `#build-in-public` training
-- Follow [@2gbeh](https://tiktok.com/@2gbeh) on **TikTok** for the weekly mentorship/Q&A session
-- Follow [@2gbeh](https://x.com/@2gbeh) on **Twitter/X** for the weekly AI/ML Podcast [Northwind AI Podcast](https://podcast.northwindai.org)
-- Follow [/2gbeh](https://github.com/2gbeh) and [/expo-cbt](https://github.com/expo-cbt) on **GitHub**
+<!-- - Subscribe to [@2gbeh](https://youtube.com/@2gbeh) **YouTube Channel** for the weekly `#build-in-public` training
+- Follow [@2gbeh](https://tiktok.com/@2gbeh) on **TikTok** for the weekly mentorship/Q&A session -->
+- Follow [@2gbeh](https://x.com/@2gbeh) on **Twitter/X** for AI/ML Weekly Q&A [Northwind AI Podcast](https://podcast.northwindai.org)
+- Follow [/2gbeh](https://github.com/2gbeh) and [/expo-cbt](https://github.com/expo-cbt) organization on **GitHub**
 - Send your GitHub Email to [2348169960927](https://wa.me/2348169960927?text=Hello%20ExpoCBT%20admin%2C%20I've%20completed%20the%20Open%20Source%20Contributor%20Guide%20%F0%9F%A4%93) on WhatsApp
 
 ## Projects
