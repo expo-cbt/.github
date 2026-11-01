@@ -4,8 +4,8 @@
 
 > Department of Computer Science & Engineering, Obafemi Awolowo University (OAU)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB.svg)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-007ACC.svg)
 ![C#](https://img.shields.io/badge/C%23-13.x-239120.svg)
 
 ## Contributor Guide
@@ -14,7 +14,7 @@
 - Follow [@2gbeh](https://tiktok.com/@2gbeh) on **TikTok** for the weekly mentorship/Q&A session -->
 - Follow [@2gbeh](https://x.com/@2gbeh) on **Twitter/X** for Weekly Q&A Session [Northwind AI Podcast](https://podcast.northwindai.org)
 - Follow [/2gbeh](https://github.com/2gbeh) and [/expo-cbt](https://github.com/expo-cbt) organization on **GitHub**
-- Send your GitHub Email to [2348169960927](https%3A%2F%2Fwa.me%2F2348169960927%3Ftext%3DHello%20Webmaster%2C%20I%27ve%20completed%20the%20ExpoCBT%20open-source%20contributor%20guide%20%F0%9F%A4%93) on WhatsApp
+- Send your GitHub Email to [2348169960927](https://wa.me/2348169960927?text=Hello%20Webmaster%2C%20I%27ve%20completed%20the%20ExpoCBT%20open-source%20contributor%20guide%20%F0%9F%A4%93) on WhatsApp
 
 ## Projects
 
